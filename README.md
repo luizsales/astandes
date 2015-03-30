@@ -416,6 +416,7 @@ Exemplo de requisição:
     ABBdC1SZ1MZRmwMQelUemcLPAQgb5969uTnkRwImaeEW57lD/33Ue/3Wsx..."
 
 Parâmetros disponíveis para a query da URL:
+
 Campo| Descrição| Tipo| Requerido
 --------|------------|------|-------------
 skip| Número de registros para pular antes de retornar| integer| Não
