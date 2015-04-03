@@ -83,6 +83,8 @@ created_start| Filtrar apenas registros criados depois desta data| ISODate| Não
 created_stop| Filtrar apenas registros criados antes desta data| ISODate| Não
 attached| Buscar por registros pareados| boolean| Não
 sort| Nome do campo para ordenar o resultado| string| Não
+
+
 Exemplo de retorno:
 
     {
